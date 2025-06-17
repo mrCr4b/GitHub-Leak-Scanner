@@ -1,0 +1,72 @@
+[
+    {
+        "repo_name": "mrCr4b/ABC-Sora",
+        "url": "https://github.com/mrCr4b/ABC-Sora",
+        "step_2_method_1": {
+            "gvpEAg2vXe%QtIEc^SZDjkL4*#s!*s": {
+                "type": "code",
+                "time_found": "15:54:24 13-06-2025",
+                "file_path": [
+                    "sensitive\\appsettings.json"
+                ]
+            },
+            "4aIQHpTOX@@tdESFLx09$mZnn": {
+                "type": "commit history",
+                "time_found": "15:54:24 13-06-2025",
+                "commit_1": {
+                    "sha": "891eb95553c36397088d7a3df3b83531f94d1238",
+                    "author": "mrCr4b <168268323+mrCr4b@users.noreply.github.com>",
+                    "commit_date": "Fri Jun 6 11:16:26 2025 +0700",
+                    "file_path": [
+                        "sensitive/EmailService.cs"
+                    ]
+                },
+                "commit_2": {
+                    "sha": "832bb61ed8f55fa3de85152d8551c791405c65da",
+                    "author": "mrCr4b <168268323+mrCr4b@users.noreply.github.com>",
+                    "commit_date": "Mon May 12 11:28:36 2025 +0700",
+                    "file_path": [
+                        "sensitive/web.config"
+                    ]
+                },
+                "commit_3": {
+                    "sha": "24bb55b9a2175aaec63d7d9beafae3fe380f1206",
+                    "author": "mrCr4b <168268323+mrCr4b@users.noreply.github.com>",
+                    "commit_date": "Thu Apr 24 15:57:28 2025 +0700",
+                    "file_path": [
+                        "sensitive/web.config"
+                    ]
+                },
+                "commit_4": {
+                    "sha": "a0aa17daa916689959e759419db7581139ece631",
+                    "author": "mrCr4b <168268323+mrCr4b@users.noreply.github.com>",
+                    "commit_date": "Thu Apr 24 15:57:18 2025 +0700",
+                    "file_path": [
+                        "sensitive/EmailService.cs"
+                    ]
+                }
+            }
+        },
+        "step_2_method_2": {
+            "dog:cat": {
+                "result_type": "keyword yes param yes",
+                "file_path": [
+                    "sensitive\\Sample.c"
+                ],
+                "time_found": "15:54:24 13-06-2025"
+            },
+            "black:whitey": {
+                "result_type": "keyword no param no"
+            }
+        },
+        "step_2_method_3": {
+            "blue:green": {
+                "found": "yes",
+                "time_found": "15:54:24 13-06-2025",
+                "file_path": [
+                    "sensitive\\blueyes\\greentea.json"
+                ]
+            }
+        }
+    }
+]

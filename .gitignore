@@ -1,0 +1,7 @@
+__pycache__/
+build/
+build_env/
+dist/
+.env
+ideas.txt
+next_day.txt

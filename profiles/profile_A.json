@@ -1,0 +1,28 @@
+{
+    "profile_name": "project_1",
+    "profile_description": "for project 1 in my company",
+    "step_1_keywords": [
+        "RCHAt5gSC4YY7rkT#l$jmA7cxs1uG4%iqh6AfWw^hM5s"
+    ],
+    "step_2_method_1": {
+        "use": "yes",
+        "strings": [
+            "gvpEAg2vXe%QtIEc^SZDjkL4*#s!*s",
+            "4aIQHpTOX@@tdESFLx09$mZnn"
+        ]
+    },
+    "step_2_method_2": {
+        "use": "yes",
+        "language": "C/C++",
+        "rules": [
+            "dog:cat",
+            "black:whitey"
+        ]
+    },
+    "step_2_method_3": {
+        "use": "yes",
+        "rules": [
+            "blue:green"
+        ]
+    }
+}

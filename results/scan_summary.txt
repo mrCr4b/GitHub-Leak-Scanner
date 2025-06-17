@@ -1,0 +1,582 @@
+🔍 Kết quả quét:
+Profile: project_1
+
+
+📁 Repo: mrCr4b/ABC-Sora
+🔗 URL: https://github.com/mrCr4b/ABC-Sora
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🧩 Phương pháp 1 – Tìm chuỗi trong mã nguồn & lịch sử commit:
+
+➤ Đã phát hiện chuỗi "gvpEAg2vXe%QtIEc^SZDjkL4*#s!*s"
+   • Kiểu: Trong code
+   • Thời gian: 14:37:48 11-06-2025
+   • Đường dẫn:
+     - sensitive\appsettings.json
+➤ Đã phát hiện chuỗi "4aIQHpTOX@@tdESFLx09$mZnn"
+   • Kiểu: Trong lịch sử commit
+   • Thời gian: 14:37:49 11-06-2025
+   • Danh sách commit:
+     - SHA: `891eb95553c36397088d7a3df3b83531f94d1238`
+       • Tác giả: mrCr4b
+       • Ngày: Fri Jun 6 11:16:26 2025 +0700
+       • Tệp: sensitive/EmailService.cs
+     - SHA: `832bb61ed8f55fa3de85152d8551c791405c65da`
+       • Tác giả: mrCr4b
+       • Ngày: Mon May 12 11:28:36 2025 +0700
+       • Tệp: sensitive/web.config
+     - SHA: `24bb55b9a2175aaec63d7d9beafae3fe380f1206`
+       • Tác giả: mrCr4b
+       • Ngày: Thu Apr 24 15:57:28 2025 +0700
+       • Tệp: sensitive/web.config
+     - SHA: `a0aa17daa916689959e759419db7581139ece631`
+       • Tác giả: mrCr4b
+       • Ngày: Thu Apr 24 15:57:18 2025 +0700
+       • Tệp: sensitive/EmailService.cs
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🧩 Phương pháp 2 – Tìm hàm & tham số chứa từ khóa:
+
+➤ Hàm chứa 'dog' và tham số chứa 'cat'
+   • Trạng thái: ✅ Có từ khóa trong cả tên hàm và tham số
+   • Thời gian: 14:37:49 11-06-2025
+   • Đường dẫn:
+     - sensitive\Sample.cs
+➤ Hàm chứa 'black' và tham số chứa 'whitey'
+   • Trạng thái: ❌ Không có từ khóa trong cả tên hàm và tham số
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🧩 Phương pháp 3 – Tìm thư mục chứa từ khóa + nội dung liên quan:
+
+➤ Thư mục chứa 'blue', có tệp chứa 'green'
+   • Trạng thái: ✅ Có
+   • Thời gian: 14:37:49 11-06-2025
+   • Đường dẫn:
+     - sensitive\blueyes\greentea.json
+
+🔍 Kết quả quét:
+Profile: project_1
+
+
+📁 Repo: mrCr4b/ABC-Sora
+🔗 URL: https://github.com/mrCr4b/ABC-Sora
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🧩 Phương pháp 1 – Tìm chuỗi trong mã nguồn & lịch sử commit:
+
+➤ Đã phát hiện chuỗi "gvpEAg2vXe%QtIEc^SZDjkL4*#s!*s"
+   • Kiểu: Trong code
+   • Thời gian: 14:54:37 11-06-2025
+   • Đường dẫn:
+     - sensitive\appsettings.json
+➤ Đã phát hiện chuỗi "4aIQHpTOX@@tdESFLx09$mZnn"
+   • Kiểu: Trong lịch sử commit
+   • Thời gian: 14:54:37 11-06-2025
+   • Danh sách commit:
+     - SHA: `891eb95553c36397088d7a3df3b83531f94d1238`
+       • Tác giả: mrCr4b
+       • Ngày: Fri Jun 6 11:16:26 2025 +0700
+       • Tệp: sensitive/EmailService.cs
+     - SHA: `832bb61ed8f55fa3de85152d8551c791405c65da`
+       • Tác giả: mrCr4b
+       • Ngày: Mon May 12 11:28:36 2025 +0700
+       • Tệp: sensitive/web.config
+     - SHA: `24bb55b9a2175aaec63d7d9beafae3fe380f1206`
+       • Tác giả: mrCr4b
+       • Ngày: Thu Apr 24 15:57:28 2025 +0700
+       • Tệp: sensitive/web.config
+     - SHA: `a0aa17daa916689959e759419db7581139ece631`
+       • Tác giả: mrCr4b
+       • Ngày: Thu Apr 24 15:57:18 2025 +0700
+       • Tệp: sensitive/EmailService.cs
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🧩 Phương pháp 2 – Tìm hàm & tham số chứa từ khóa:
+
+➤ Hàm chứa 'dog' và tham số chứa 'cat'
+   • Trạng thái: ✅ Có từ khóa trong cả tên hàm và tham số
+   • Thời gian: 14:54:37 11-06-2025
+   • Đường dẫn:
+     - sensitive\Sample.cs
+➤ Hàm chứa 'black' và tham số chứa 'whitey'
+   • Trạng thái: ❌ Không có từ khóa trong cả tên hàm và tham số
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🧩 Phương pháp 3 – Tìm thư mục chứa từ khóa + nội dung liên quan:
+
+➤ Thư mục chứa 'blue', có tệp chứa 'green'
+   • Trạng thái: ✅ Có
+   • Thời gian: 14:54:37 11-06-2025
+   • Đường dẫn:
+     - sensitive\blueyes\greentea.json
+
+🔍 Kết quả quét:
+Profile: project_1
+
+
+📁 Repo: mrCr4b/ABC-Sora
+🔗 URL: https://github.com/mrCr4b/ABC-Sora
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🧩 Phương pháp 1 – Tìm chuỗi trong mã nguồn & lịch sử commit:
+
+➤ Đã phát hiện chuỗi "gvpEAg2vXe%QtIEc^SZDjkL4*#s!*s"
+   • Kiểu: Trong code
+   • Thời gian: 14:59:54 11-06-2025
+   • Đường dẫn:
+     - sensitive\appsettings.json
+➤ Đã phát hiện chuỗi "4aIQHpTOX@@tdESFLx09$mZnn"
+   • Kiểu: Trong lịch sử commit
+   • Thời gian: 14:59:54 11-06-2025
+   • Danh sách commit:
+     - SHA: `891eb95553c36397088d7a3df3b83531f94d1238`
+       • Tác giả: mrCr4b
+       • Ngày: Fri Jun 6 11:16:26 2025 +0700
+       • Tệp: sensitive/EmailService.cs
+     - SHA: `832bb61ed8f55fa3de85152d8551c791405c65da`
+       • Tác giả: mrCr4b
+       • Ngày: Mon May 12 11:28:36 2025 +0700
+       • Tệp: sensitive/web.config
+     - SHA: `24bb55b9a2175aaec63d7d9beafae3fe380f1206`
+       • Tác giả: mrCr4b
+       • Ngày: Thu Apr 24 15:57:28 2025 +0700
+       • Tệp: sensitive/web.config
+     - SHA: `a0aa17daa916689959e759419db7581139ece631`
+       • Tác giả: mrCr4b
+       • Ngày: Thu Apr 24 15:57:18 2025 +0700
+       • Tệp: sensitive/EmailService.cs
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🧩 Phương pháp 2 – Tìm hàm & tham số chứa từ khóa:
+
+➤ Hàm chứa 'dog' và tham số chứa 'cat'
+   • Trạng thái: ✅ Có từ khóa trong cả tên hàm và tham số
+   • Thời gian: 14:59:54 11-06-2025
+   • Đường dẫn:
+     - sensitive\Sample.cs
+➤ Hàm chứa 'black' và tham số chứa 'whitey'
+   • Trạng thái: ❌ Không có từ khóa trong cả tên hàm và tham số
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🧩 Phương pháp 3 – Tìm thư mục chứa từ khóa + nội dung liên quan:
+
+➤ Thư mục chứa 'blue', có tệp chứa 'green'
+   • Trạng thái: ✅ Có
+   • Thời gian: 14:59:54 11-06-2025
+   • Đường dẫn:
+     - sensitive\blueyes\greentea.json
+
+🔍 Kết quả quét:
+Profile: project_1
+
+
+📁 Repo: mrCr4b/ABC-Sora
+🔗 URL: https://github.com/mrCr4b/ABC-Sora
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🧩 Phương pháp 1 – Tìm chuỗi trong mã nguồn & lịch sử commit:
+
+➤ Đã phát hiện chuỗi "gvpEAg2vXe%QtIEc^SZDjkL4*#s!*s"
+   • Kiểu: Trong code
+   • Thời gian: 14:59:54 11-06-2025
+   • Đường dẫn:
+     - sensitive\appsettings.json
+➤ Đã phát hiện chuỗi "4aIQHpTOX@@tdESFLx09$mZnn"
+   • Kiểu: Trong lịch sử commit
+   • Thời gian: 14:59:54 11-06-2025
+   • Danh sách commit:
+     - SHA: `891eb95553c36397088d7a3df3b83531f94d1238`
+       • Tác giả: mrCr4b
+       • Ngày: Fri Jun 6 11:16:26 2025 +0700
+       • Tệp: sensitive/EmailService.cs
+     - SHA: `832bb61ed8f55fa3de85152d8551c791405c65da`
+       • Tác giả: mrCr4b
+       • Ngày: Mon May 12 11:28:36 2025 +0700
+       • Tệp: sensitive/web.config
+     - SHA: `24bb55b9a2175aaec63d7d9beafae3fe380f1206`
+       • Tác giả: mrCr4b
+       • Ngày: Thu Apr 24 15:57:28 2025 +0700
+       • Tệp: sensitive/web.config
+     - SHA: `a0aa17daa916689959e759419db7581139ece631`
+       • Tác giả: mrCr4b
+       • Ngày: Thu Apr 24 15:57:18 2025 +0700
+       • Tệp: sensitive/EmailService.cs
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🧩 Phương pháp 2 – Tìm hàm & tham số chứa từ khóa:
+
+➤ Hàm chứa 'dog' và tham số chứa 'cat'
+   • Trạng thái: ✅ Có từ khóa trong cả tên hàm và tham số
+   • Thời gian: 14:59:54 11-06-2025
+   • Đường dẫn:
+     - sensitive\Sample.cs
+➤ Hàm chứa 'black' và tham số chứa 'whitey'
+   • Trạng thái: ❌ Không có từ khóa trong cả tên hàm và tham số
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🧩 Phương pháp 3 – Tìm thư mục chứa từ khóa + nội dung liên quan:
+
+➤ Thư mục chứa 'blue', có tệp chứa 'green'
+   • Trạng thái: ✅ Có
+   • Thời gian: 14:59:54 11-06-2025
+   • Đường dẫn:
+     - sensitive\blueyes\greentea.json
+
+🔍 Kết quả quét:
+Profile: project_1
+
+
+📁 Repo: mrCr4b/ABC-Sora
+🔗 URL: https://github.com/mrCr4b/ABC-Sora
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🧩 Phương pháp 1 – Tìm chuỗi trong mã nguồn & lịch sử commit:
+
+➤ Đã phát hiện chuỗi "gvpEAg2vXe%QtIEc^SZDjkL4*#s!*s"
+   • Kiểu: Trong code
+   • Thời gian: 14:59:54 11-06-2025
+   • Đường dẫn:
+     - sensitive\appsettings.json
+➤ Đã phát hiện chuỗi "4aIQHpTOX@@tdESFLx09$mZnn"
+   • Kiểu: Trong lịch sử commit
+   • Thời gian: 14:59:54 11-06-2025
+   • Danh sách commit:
+     - SHA: `891eb95553c36397088d7a3df3b83531f94d1238`
+       • Tác giả: mrCr4b
+       • Ngày: Fri Jun 6 11:16:26 2025 +0700
+       • Tệp: sensitive/EmailService.cs
+     - SHA: `832bb61ed8f55fa3de85152d8551c791405c65da`
+       • Tác giả: mrCr4b
+       • Ngày: Mon May 12 11:28:36 2025 +0700
+       • Tệp: sensitive/web.config
+     - SHA: `24bb55b9a2175aaec63d7d9beafae3fe380f1206`
+       • Tác giả: mrCr4b
+       • Ngày: Thu Apr 24 15:57:28 2025 +0700
+       • Tệp: sensitive/web.config
+     - SHA: `a0aa17daa916689959e759419db7581139ece631`
+       • Tác giả: mrCr4b
+       • Ngày: Thu Apr 24 15:57:18 2025 +0700
+       • Tệp: sensitive/EmailService.cs
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🧩 Phương pháp 2 – Tìm hàm & tham số chứa từ khóa:
+
+➤ Hàm chứa 'dog' và tham số chứa 'cat'
+   • Trạng thái: ✅ Có từ khóa trong cả tên hàm và tham số
+   • Thời gian: 14:59:54 11-06-2025
+   • Đường dẫn:
+     - sensitive\Sample.cs
+➤ Hàm chứa 'black' và tham số chứa 'whitey'
+   • Trạng thái: ❌ Không có từ khóa trong cả tên hàm và tham số
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🧩 Phương pháp 3 – Tìm thư mục chứa từ khóa + nội dung liên quan:
+
+➤ Thư mục chứa 'blue', có tệp chứa 'green'
+   • Trạng thái: ✅ Có
+   • Thời gian: 14:59:54 11-06-2025
+   • Đường dẫn:
+     - sensitive\blueyes\greentea.json
+
+🔍 Kết quả quét:
+Profile: project_1
+
+
+📁 Repo: mrCr4b/ABC-Sora
+🔗 URL: https://github.com/mrCr4b/ABC-Sora
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🧩 Phương pháp 1 – Tìm chuỗi trong mã nguồn & lịch sử commit:
+
+➤ Đã phát hiện chuỗi "gvpEAg2vXe%QtIEc^SZDjkL4*#s!*s"
+   • Kiểu: Trong code
+   • Thời gian: 15:30:14 11-06-2025
+   • Đường dẫn:
+     - sensitive\appsettings.json
+➤ Đã phát hiện chuỗi "4aIQHpTOX@@tdESFLx09$mZnn"
+   • Kiểu: notfound
+   • Danh sách commit:
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🧩 Phương pháp 2 – Tìm hàm & tham số chứa từ khóa:
+
+➤ Hàm chứa 'dog' và tham số chứa 'cat'
+   • Trạng thái: ✅ Có từ khóa trong cả tên hàm và tham số
+   • Thời gian: 15:30:14 11-06-2025
+   • Đường dẫn:
+     - sensitive\Sample.cs
+➤ Hàm chứa 'black' và tham số chứa 'whitey'
+   • Trạng thái: ❌ Không có từ khóa trong cả tên hàm và tham số
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🧩 Phương pháp 3 – Tìm thư mục chứa từ khóa + nội dung liên quan:
+
+➤ Thư mục chứa 'blue', có tệp chứa 'green'
+   • Trạng thái: ✅ Có
+   • Thời gian: 15:30:14 11-06-2025
+   • Đường dẫn:
+     - sensitive\blueyes\greentea.json
+
+🔍 Kết quả quét:
+Profile: project_1
+
+
+📁 Repo: mrCr4b/ABC-Sora
+🔗 URL: https://github.com/mrCr4b/ABC-Sora
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🧩 Phương pháp 1 – Tìm chuỗi trong mã nguồn & lịch sử commit:
+
+➤ Đã phát hiện chuỗi "gvpEAg2vXe%QtIEc^SZDjkL4*#s!*s"
+   • Kiểu: Trong code
+   • Thời gian: 13:57:52 12-06-2025
+   • Đường dẫn:
+     - sensitive\appsettings.json
+➤ Đã phát hiện chuỗi "4aIQHpTOX@@tdESFLx09$mZnn"
+   • Kiểu: notfound
+   • Danh sách commit:
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🧩 Phương pháp 2 – Tìm hàm & tham số chứa từ khóa:
+
+➤ Hàm chứa 'dog' và tham số chứa 'cat'
+   • Trạng thái: ✅ Có từ khóa trong cả tên hàm và tham số
+   • Thời gian: 13:57:53 12-06-2025
+   • Đường dẫn:
+     - sensitive\Sample.c
+➤ Hàm chứa 'black' và tham số chứa 'whitey'
+   • Trạng thái: ❌ Không có từ khóa trong cả tên hàm và tham số
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🧩 Phương pháp 3 – Tìm thư mục chứa từ khóa + nội dung liên quan:
+
+➤ Thư mục chứa 'blue', có tệp chứa 'green'
+   • Trạng thái: ✅ Có
+   • Thời gian: 13:57:53 12-06-2025
+   • Đường dẫn:
+     - sensitive\blueyes\greentea.json
+
+🔍 Kết quả quét:
+Profile: project_1
+
+
+📁 Repo: mrCr4b/ABC-Sora
+🔗 URL: https://github.com/mrCr4b/ABC-Sora
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🧩 Phương pháp 1 – Tìm chuỗi trong mã nguồn & lịch sử commit:
+
+➤ Đã phát hiện chuỗi "gvpEAg2vXe%QtIEc^SZDjkL4*#s!*s"
+   • Kiểu: Trong code
+   • Thời gian: 14:25:18 12-06-2025
+   • Đường dẫn:
+     - sensitive\appsettings.json
+➤ Đã phát hiện chuỗi "4aIQHpTOX@@tdESFLx09$mZnn"
+   • Kiểu: Trong lịch sử commit
+   • Thời gian: 14:25:18 12-06-2025
+   • Danh sách commit:
+     - SHA: `891eb95553c36397088d7a3df3b83531f94d1238`
+       • Tác giả: mrCr4b
+       • Ngày: Fri Jun 6 11:16:26 2025 +0700
+       • Tệp: sensitive/EmailService.cs
+     - SHA: `832bb61ed8f55fa3de85152d8551c791405c65da`
+       • Tác giả: mrCr4b
+       • Ngày: Mon May 12 11:28:36 2025 +0700
+       • Tệp: sensitive/web.config
+     - SHA: `24bb55b9a2175aaec63d7d9beafae3fe380f1206`
+       • Tác giả: mrCr4b
+       • Ngày: Thu Apr 24 15:57:28 2025 +0700
+       • Tệp: sensitive/web.config
+     - SHA: `a0aa17daa916689959e759419db7581139ece631`
+       • Tác giả: mrCr4b
+       • Ngày: Thu Apr 24 15:57:18 2025 +0700
+       • Tệp: sensitive/EmailService.cs
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🧩 Phương pháp 2 – Tìm hàm & tham số chứa từ khóa:
+
+➤ Hàm chứa 'dog' và tham số chứa 'cat'
+   • Trạng thái: ✅ Có từ khóa trong cả tên hàm và tham số
+   • Thời gian: 14:25:18 12-06-2025
+   • Đường dẫn:
+     - sensitive\Sample.c
+➤ Hàm chứa 'black' và tham số chứa 'whitey'
+   • Trạng thái: ❌ Không có từ khóa trong cả tên hàm và tham số
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🧩 Phương pháp 3 – Tìm thư mục chứa từ khóa + nội dung liên quan:
+
+➤ Thư mục chứa 'blue', có tệp chứa 'green'
+   • Trạng thái: ✅ Có
+   • Thời gian: 14:25:18 12-06-2025
+   • Đường dẫn:
+     - sensitive\blueyes\greentea.json
+
+🔍 Kết quả quét:
+Profile: project_1
+
+
+📁 Repo: mrCr4b/ABC-Sora
+🔗 URL: https://github.com/mrCr4b/ABC-Sora
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🧩 Phương pháp 1 – Tìm chuỗi trong mã nguồn & lịch sử commit:
+
+➤ Đã phát hiện chuỗi "gvpEAg2vXe%QtIEc^SZDjkL4*#s!*s"
+   • Kiểu: Trong code
+   • Thời gian: 15:58:05 12-06-2025
+   • Đường dẫn:
+     - sensitive\appsettings.json
+➤ Đã phát hiện chuỗi "4aIQHpTOX@@tdESFLx09$mZnn"
+   • Kiểu: Trong lịch sử commit
+   • Thời gian: 15:58:05 12-06-2025
+   • Danh sách commit:
+     - SHA: `891eb95553c36397088d7a3df3b83531f94d1238`
+       • Tác giả: mrCr4b
+       • Ngày: Fri Jun 6 11:16:26 2025 +0700
+       • Tệp: sensitive/EmailService.cs
+     - SHA: `832bb61ed8f55fa3de85152d8551c791405c65da`
+       • Tác giả: mrCr4b
+       • Ngày: Mon May 12 11:28:36 2025 +0700
+       • Tệp: sensitive/web.config
+     - SHA: `24bb55b9a2175aaec63d7d9beafae3fe380f1206`
+       • Tác giả: mrCr4b
+       • Ngày: Thu Apr 24 15:57:28 2025 +0700
+       • Tệp: sensitive/web.config
+     - SHA: `a0aa17daa916689959e759419db7581139ece631`
+       • Tác giả: mrCr4b
+       • Ngày: Thu Apr 24 15:57:18 2025 +0700
+       • Tệp: sensitive/EmailService.cs
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🧩 Phương pháp 2 – Tìm hàm & tham số chứa từ khóa:
+
+➤ Hàm chứa 'dog' và tham số chứa 'cat'
+   • Trạng thái: ✅ Có từ khóa trong cả tên hàm và tham số
+   • Thời gian: 15:58:05 12-06-2025
+   • Đường dẫn:
+     - sensitive\Sample.c
+➤ Hàm chứa 'black' và tham số chứa 'whitey'
+   • Trạng thái: ❌ Không có từ khóa trong cả tên hàm và tham số
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🧩 Phương pháp 3 – Tìm thư mục chứa từ khóa + nội dung liên quan:
+
+➤ Thư mục chứa 'blue', có tệp chứa 'green'
+   • Trạng thái: ✅ Có
+   • Thời gian: 15:58:05 12-06-2025
+   • Đường dẫn:
+     - sensitive\blueyes\greentea.json
+
+🔍 Kết quả quét:
+Profile: project_1
+
+
+📁 Repo: mrCr4b/ABC-Sora
+🔗 URL: https://github.com/mrCr4b/ABC-Sora
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🧩 Phương pháp 1 – Tìm chuỗi trong mã nguồn & lịch sử commit:
+
+➤ Đã phát hiện chuỗi "gvpEAg2vXe%QtIEc^SZDjkL4*#s!*s"
+   • Kiểu: Trong code
+   • Thời gian: 15:39:57 13-06-2025
+   • Đường dẫn:
+     - sensitive\appsettings.json
+➤ Đã phát hiện chuỗi "4aIQHpTOX@@tdESFLx09$mZnn"
+   • Kiểu: Trong lịch sử commit
+   • Thời gian: 15:39:58 13-06-2025
+   • Danh sách commit:
+     - SHA: `891eb95553c36397088d7a3df3b83531f94d1238`
+       • Tác giả: mrCr4b
+       • Ngày: Fri Jun 6 11:16:26 2025 +0700
+       • Tệp: sensitive/EmailService.cs
+     - SHA: `832bb61ed8f55fa3de85152d8551c791405c65da`
+       • Tác giả: mrCr4b
+       • Ngày: Mon May 12 11:28:36 2025 +0700
+       • Tệp: sensitive/web.config
+     - SHA: `24bb55b9a2175aaec63d7d9beafae3fe380f1206`
+       • Tác giả: mrCr4b
+       • Ngày: Thu Apr 24 15:57:28 2025 +0700
+       • Tệp: sensitive/web.config
+     - SHA: `a0aa17daa916689959e759419db7581139ece631`
+       • Tác giả: mrCr4b
+       • Ngày: Thu Apr 24 15:57:18 2025 +0700
+       • Tệp: sensitive/EmailService.cs
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🧩 Phương pháp 2 – Tìm hàm & tham số chứa từ khóa:
+
+➤ Hàm chứa 'dog' và tham số chứa 'cat'
+   • Trạng thái: ✅ Có từ khóa trong cả tên hàm và tham số
+   • Thời gian: 15:39:58 13-06-2025
+   • Đường dẫn:
+     - sensitive\Sample.c
+➤ Hàm chứa 'black' và tham số chứa 'whitey'
+   • Trạng thái: ❌ Không có từ khóa trong cả tên hàm và tham số
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🧩 Phương pháp 3 – Tìm thư mục chứa từ khóa + nội dung liên quan:
+
+➤ Thư mục chứa 'blue', có tệp chứa 'green'
+   • Trạng thái: ✅ Có
+   • Thời gian: 15:39:58 13-06-2025
+   • Đường dẫn:
+     - sensitive\blueyes\greentea.json
+
+🔍 Kết quả quét:
+Profile: project_1
+
+
+📁 Repo: mrCr4b/ABC-Sora
+🔗 URL: https://github.com/mrCr4b/ABC-Sora
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🧩 Phương pháp 1 – Tìm chuỗi trong mã nguồn & lịch sử commit:
+
+➤ Đã phát hiện chuỗi "gvpEAg2vXe%QtIEc^SZDjkL4*#s!*s"
+   • Kiểu: Trong code
+   • Thời gian: 15:54:24 13-06-2025
+   • Đường dẫn:
+     - sensitive\appsettings.json
+➤ Đã phát hiện chuỗi "4aIQHpTOX@@tdESFLx09$mZnn"
+   • Kiểu: Trong lịch sử commit
+   • Thời gian: 15:54:24 13-06-2025
+   • Danh sách commit:
+     - SHA: `891eb95553c36397088d7a3df3b83531f94d1238`
+       • Tác giả: mrCr4b
+       • Ngày: Fri Jun 6 11:16:26 2025 +0700
+       • Tệp: sensitive/EmailService.cs
+     - SHA: `832bb61ed8f55fa3de85152d8551c791405c65da`
+       • Tác giả: mrCr4b
+       • Ngày: Mon May 12 11:28:36 2025 +0700
+       • Tệp: sensitive/web.config
+     - SHA: `24bb55b9a2175aaec63d7d9beafae3fe380f1206`
+       • Tác giả: mrCr4b
+       • Ngày: Thu Apr 24 15:57:28 2025 +0700
+       • Tệp: sensitive/web.config
+     - SHA: `a0aa17daa916689959e759419db7581139ece631`
+       • Tác giả: mrCr4b
+       • Ngày: Thu Apr 24 15:57:18 2025 +0700
+       • Tệp: sensitive/EmailService.cs
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🧩 Phương pháp 2 – Tìm hàm & tham số chứa từ khóa:
+
+➤ Hàm chứa 'dog' và tham số chứa 'cat'
+   • Trạng thái: ✅ Có từ khóa trong cả tên hàm và tham số
+   • Thời gian: 15:54:24 13-06-2025
+   • Đường dẫn:
+     - sensitive\Sample.c
+➤ Hàm chứa 'black' và tham số chứa 'whitey'
+   • Trạng thái: ❌ Không có từ khóa trong cả tên hàm và tham số
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🧩 Phương pháp 3 – Tìm thư mục chứa từ khóa + nội dung liên quan:
+
+➤ Thư mục chứa 'blue', có tệp chứa 'green'
+   • Trạng thái: ✅ Có
+   • Thời gian: 15:54:24 13-06-2025
+   • Đường dẫn:
+     - sensitive\blueyes\greentea.json
+
