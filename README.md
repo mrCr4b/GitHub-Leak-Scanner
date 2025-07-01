@@ -2,3 +2,5 @@ A Python desktop tool to detect accidental credential leaks in public GitHub rep
 
 **Screenshots**
 ![Demo](https://files.catbox.moe/k8zuk4.png)
+
+![Demo](https://files.catbox.moe/9vp3eo.png)
